@@ -1,0 +1,2 @@
+# BasicPlugin
+Yes
